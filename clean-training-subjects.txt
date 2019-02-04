@@ -98,106 +98,106 @@ utf 8 b 4pmr Carlo/BRAND Greco/BRAND archtop/ATTRIBUTE jazz/ATTRIBUTE guitar/TYP
 Crown/BRAND Pump/TYPE Organ/TYPE late/ATTRIBUTE 1800s/ATTRIBUTE
 DW/BRAND Drum/BRAND Workshop/BRAND Parts
 Yamaha/BRAND MOX8/MODEL
-Buffet Flute w hard case Made in Germany
-Warwick 5 string fretless Streamer LX JazzMan
-Cool Pedals
-Fender Bass
-Synth Trades
-KRK Rockit 5 G3 s Pair
-2017 Gibson Les Paul Classic
-PIANO CHICKERING Baby Grand Beautifully Rebuilt
-Gretsch Solid body Electromatic Patrick Stump Edition
-Piano
-casio ht 700 digital analog hybrid synthesizer
-RACK CASES FOR SALE
-Fender Stratocaster Burgundy Mist Fujigen
-SKB 3i 3614 KBD
-Roland GR55 For Sale
-Washburn Banjo 5 String for sale
-Rode Nt5 Matched Stereo Pair
-Casio electric keyboard
-Arturia Keylab 25 MIDI Controller
-Boutique Lap Steel
-Warwick Bass
-Encore Electronics Knobby Programmable MIDI Controller
-Yamaha Keyboard YPT 210
-Maschine Studio
-Avalon 737sp
-Orange Rockerverb MK ii 100 WATT head and cab
+Buffet/BRAND Flute/TYPE w hard/ATTRIBUTE case/TYPE Made/ATTRIBUTE in/ATTRIBUTE Germany/ATTRIBUTE
+Warwick/BRAND 5/ATTRIBUTE string/ATTRIBUTE fretless/ATTRIBUTE Streamer/MODEL LX/MODEL JazzMan/MODEL
+Cool Pedals/TYPE
+Fender/BRAND Bass/TYPE
+Synth/TYPE Trades
+KRK/BRAND Rockit/MODEL 5/MODEL G3/MODEL s Pair/ATTRIBUTE
+2017/ATTRIBUTE Gibson/BRAND Les/MODEL Paul/MODEL Classic/MODEL
+PIANO/TYPE CHICKERING/BRAND Baby/ATTRIBUTE Grand/ATTRIBUTE Beautifully Rebuilt/ATTRIBUTE
+Gretsch/BRAND Solid/ATTRIBUTE body/ATTRIBUTE Electromatic/MODEL Patrick/MODEL Stump/MODEL Edition/MODEL
+Piano/TYPE
+casio/BRAND ht/MODEL 700/MODEL digital/ATTRIBUTE analog/ATTRIBUTE hybrid/ATTRIBUTE synthesizer/TYPE
+RACK/ATTRIBUTE CASES/TYPE FOR SALE
+Fender/BRAND Stratocaster/MODEL Burgundy/ATTRIBUTE Mist/ATTRIBUTE Fujigen/ATTRIBUTE
+SKB/BRAND 3i/MODEL 3614/MODEL KBD/TYPE
+Roland/BRAND GR55/MODEL For Sale
+Washburn/BRAND Banjo/TYPE 5/ATTRIBUTE String/ATTRIBUTE for sale
+Rode/BRAND Nt5/MODEL Matched/ATTRIBUTE Stereo/ATTRIBUTE Pair/ATTRIBUTE
+Casio/BRAND electric/ATTRIBUTE keyboard/TYPE
+Arturia/BRAND Keylab/MODEL 25/MODEL MIDI/TYPE Controller/TYPE
+Boutique Lap/TYPE Steel/TYPE
+Warwick/BRAND Bass/TYPE
+Encore/BRAND Electronics/BRAND Knobby/MODEL Programmable/ATTRIBUTE MIDI/TYPE Controller/TYPE
+Yamaha/BRAND Keyboard/TYPE YPT/MODEL 210/MODEL
+Maschine/BRAND Studio/MODEL
+Avalon/BRAND 737sp/MODEL
+Orange/BRAND Rockerverb/MODEL MK/MODEL ii/MODEL 100/ATTRIBUTE WATT/ATTRIBUTE head/TYPE and cab/TYPE
 Expert piano mover Piano moving Experts
-Cello soft case
-SABIAN CHINA TYPE CYMBAL
-Vintage EV re10 microphone pair
-1993 Fender Blueburst Strat Plus
-Accorgan amplifier accordion organ guitar etc for
-Cellophant cello bow holder device for kids NEW
-Numark usb dj controller
-Radial Workhorse Cube
-1965 Reissue Fender Mustang
-ESP Ltd M 15 Electric Guitar
-HORIZON STAGE SERIES RAPCO MUSIC STAGE STUDIO
-SKB mixer bag
-Vintage Ludwig Hardware
-KORG Kaoss Pad KP3
-GK 4 10 BASS SPEAKER BOTTOM
-Washburn Michael Sweet Stryper Guitar
-Casio PX 160BK Digital Piano
-3 Speaker Monitor Stands
-Guitar effects processor
-QSC K10s Powered PA System Speakers Loudspeakers Live
-YAMAHA PIANO U1
-Gallien Krueger 200MB Series 2 and BP 250 125 Watt Bass
-Audio Technica AT 4050 Multipattern Condenser Microphone
-1962 Fender Super Amp original
-Casio CTK 630
-Lexicon MX300 Stereo Reverb Effects Processor with USB
-Jackson ESP Dorado Classical guitars
+Cello/TYPE soft/ATTRIBUTE case/TYPE
+SABIAN/BRAND CHINA/ATTRIBUTE TYPE CYMBAL/TYPE
+Vintage EV/BRAND re10/MODEL microphone/TYPE pair/ATTRIBUTE
+1993/ATTRIBUTE Fender/BRAND Blueburst/ATTRIBUTE Strat/MODEL Plus/MODEL
+Accorgan/MODEL amplifier/TYPE accordion/TYPE organ/TYPE guitar/TYPE etc for
+Cellophant/MODEL cello/TYPE bow/TYPE holder/TYPE device for kids NEW/ATTRIBUTE
+Numark/BRAND usb/ATTRIBUTE dj/TYPE controller/TYPE
+Radial/BRAND Workhorse/BRAND Cube/MODEL
+1965/ATTRIBUTE Reissue/ATTRIBUTE Fender/BRAND Mustang/MODEL
+ESP/BRAND Ltd/BRAND M/MODEL 15/MODEL Electric/ATTRIBUTE Guitar/TYPE
+HORIZON/BRAND STAGE/MODEL SERIES/MODEL RAPCO/BRAND MUSIC STAGE STUDIO
+SKB/BRAND mixer/TYPE bag/TYPE
+Vintage Ludwig/BRAND Hardware/TYPE
+KORG/BRAND Kaoss/MODEL Pad/MODEL KP3/MODEL
+GK/BRAND 4/ATTRIBUTE 10/ATTRIBUTE BASS/ATTRIBUTE SPEAKER/TYPE BOTTOM
+Washburn/BRAND Michael/MODEL Sweet/MODEL Stryper/MODEL Guitar/TYPE
+Casio/BRAND PX/MODEL 160BK/MODEL Digital/ATTRIBUTE Piano/TYPE
+3/ATTRIBUTE Speaker/ATTRIBUTE Monitor/ATTRIBUTE Stands/TYPE
+Guitar/ATTRIBUTE effects/TYPE processor/TYPE
+QSC/BRAND K10s/MODEL Powered/ATTRIBUTE PA/TYPE System/TYPE Speakers/TYPE Loudspeakers/TYPE Live/ATTRIBUTE/ATTRIBUTE
+YAMAHA/BRAND PIANO/TYPE U1/MODEL
+Gallien/BRAND Krueger/BRAND 200MB/MODEL Series/MODEL 2/MODEL and BP/MODEL 250/MODEL 125/ATTRIBUTE Watt/ATTRIBUTE Bass/ATTRIBUTE
+Audio/BRAND Technica/BRAND AT/MODEL 4050/MODEL Multipattern/ATTRIBUTE Condenser/ATTRIBUTE Microphone/TYPE
+1962/ATTRIBUTE Fender/BRAND Super/MODEL Amp/MODEL original/ATTRIBUTE
+Casio/BRAND CTK/MODEL 630/MODEL
+Lexicon/BRAND MX300/MODEL Stereo/ATTRIBUTE Reverb/ATTRIBUTE Effects/TYPE Processor/TYPE with USB/ATTRIBUTE
+Jackson/BRAND ESP/BRAND Dorado/MODEL Classical/ATTRIBUTE guitars/TYPE
 Selling as a group
-Handpan
-DAS Aero 12A Line Array System Powered Speaker
-Lakland Skyline 44 64 Donald Duck Dunn Model FS FT
-Steinway Baby Grand
-Chickering Baby Grand Piano
-M Audio Keystation 49 Stand and USB Extension Cord Like
-Pair of Turbosound TQ 425DP Powered Subwoofers with Padded
-Electro Harmonix 45000 Multi Track Looper
-Marshall CODE25
-Fullton Full Drive 2 Mosfet
-Apogee One
+Handpan/TYPE
+DAS/BRAND Aero/MODEL 12A/MODEL Line/TYPE Array/TYPE System/TYPE Powered/ATTRIBUTE Speaker/TYPE
+Lakland/BRAND Skyline/MODEL 44/MODEL 64/MODEL Donald/MODEL Duck/MODEL Dunn/MODEL Model/MODEL FS FT
+Steinway/BRAND Baby/ATTRIBUTE Grand/ATTRIBUTE
+Chickering/BRAND Baby/ATTRIBUTE Grand/ATTRIBUTE Piano/TYPE
+M/BRAND Audio/BRAND Keystation/MODEL 49/MODEL Stand/TYPE and USB/ATTRIBUTE Extension/ATTRIBUTE Cord/TYPE Like
+Pair/ATTRIBUTE of Turbosound/BRAND TQ/MODEL 425DP/MODEL Powered/ATTRIBUTE Subwoofers/TYPE with Padded
+Electro/BRAND Harmonix/BRAND 45000/MODEL Multi/ATTRIBUTE Track/ATTRIBUTE Looper/TYPE
+Marshall/BRAND CODE25/MODEL
+Fullton/BRAND Full/MODEL Drive/MODEL 2/MODEL Mosfet/MODEL
+Apogee/BRAND One/MODEL
 Guitar back rocking chair one of a kind
-Fender Rumble 100 Bass Amp
-D Angelico Acoustic Electric Guitar Unfinished Luthier
-Ibanez SR800
-Mics Pedals Sale Audio Technica Morley Line 6 etc
-Candy Apple Red DW Performance Series Drum Set
-on stage foldable w carrying bag sheet music holder
-Banjo Guitar 6 Strings
-Electric Piano
-Beautiful Victorian Upright Piano Restored To
-Mackie 802 VLZ3 8 Ch Compact Recording SR Mixer
-Hard Case for Bass Guitar
-AMAZING SOUND QUALITY NEW ONE OF A KIND AFRICAN DRUM
-2010 Epiphone Dot studio Guitar
-Tube 100 watt head Crate V Series amp
-Martin 12 string acoustic
-american fender telecaster
-Folding 7 Guitar Stands
-Rhythm Tech 13 Conga
-Ludwig Bass Drum Matching Tom with Gig Bags Mounting
-D box Compressors summing mixer
-CONGAS GON BOPS WOOD COMBO
-Fender Blues Deluxe Guitar Amp
-1970s Japanese Fender Strat
-BOSS GP 10S Guitar Synth GR 09 Guitar Synth Bass amp
-KORG TRINITY Rare Black Model Japanese release
-8 Remo DW 18 inch Floor Tom Bass Kick Drum Heads
-On Stage Monitor Stands
-Casio Privia PX 160 PX 160 PX160 Digital Piano Black
-1996 Gibson Les Paul 1958 Reissue
-Gon Bops Small Percussion Tray
-ESP Viper Guitar w Padded Gigbag
-Fender 72 Telecaster Thinline
-Piano
+Fender/BRAND Rumble/MODEL 100/MODEL Bass/ATTRIBUTE Amp/TYPE
+D/BRAND Angelico/BRAND Acoustic/ATTRIBUTE Electric/ATTRIBUTE Guitar/TYPE Unfinished/ATTRIBUTE Luthier
+Ibanez/BRAND SR800/MODEL
+Mics/TYPE Pedals/TYPE Sale Audio/BRAND Technica/BRAND Morley/BRAND Line/BRAND 6/BRAND etc
+Candy/ATTRIBUTE Apple/ATTRIBUTE Red/ATTRIBUTE DW/BRAND Performance/MODEL Series/MODEL Drum/TYPE Set/TYPE
+on/BRAND stage/BRAND foldable/ATTRIBUTE w carrying bag/TYPE sheet/ATTRIBUTE music/ATTRIBUTE holder/TYPE
+Banjo/TYPE Guitar/TYPE 6/ATTRIBUTE Strings/ATTRIBUTE
+Electric/ATTRIBUTE Piano/TYPE
+Beautiful Victorian/ATTRIBUTE Upright/ATTRIBUTE Piano/TYPE Restored/ATTRIBUTE To
+Mackie/BRAND 802/MODEL VLZ3/MODEL 8/ATTRIBUTE Ch/ATTRIBUTE Compact/ATTRIBUTE Recording/ATTRIBUTE SR/ATTRIBUTE Mixer/TYPE
+Hard/ATTRIBUTE Case/TYPE for Bass/TYPE Guitar/TYPE
+AMAZING SOUND QUALITY NEW/ATTRIBUTE ONE/ATTRIBUTE OF/ATTRIBUTE A/ATTRIBUTE KIND/ATTRIBUTE AFRICAN/ATTRIBUTE DRUM/TYPE
+2010/ATTRIBUTE Epiphone/BRAND Dot/MODEL studio/MODEL Guitar/TYPE
+Tube/ATTRIBUTE 100/ATTRIBUTE watt/ATTRIBUTE head/TYPE Crate/BRAND V/MODEL Series/MODEL amp/TYPE
+Martin/BRAND 12/ATTRIBUTE string/ATTRIBUTE acoustic/ATTRIBUTE
+american/ATTRIBUTE fender/BRAND telecaster/MODEL
+Folding/ATTRIBUTE 7/ATTRIBUTE Guitar/ATTRIBUTE Stands/TYPE
+Rhythm/BRAND Tech/BRAND 13/ATTRIBUTE Conga/TYPE
+Ludwig/BRAND Bass/TYPE Drum/TYPE Matching Tom/TYPE with Gig/TYPE Bags/TYPE Mounting
+D/MODEL box/MODEL Compressors/TYPE summing/ATTRIBUTE mixer/TYPE
+CONGAS/TYPE GON/BRAND BOPS/BRAND WOOD/ATTRIBUTE COMBO/ATTRIBUTE
+Fender/BRAND Blues/MODEL Deluxe/MODEL Guitar/ATTRIBUTE Amp/TYPE
+1970s/ATTRIBUTE Japanese/ATTRIBUTE Fender/BRAND Strat/MODEL
+BOSS/BRAND GP/MODEL 10S/MODEL Guitar/ATTRIBUTE Synth/TYPE GR/MODEL 09/MODEL Guitar/ATTRIBUTE Synth/TYPE Bass/ATTRIBUTE amp/TYPE
+KORG/BRAND TRINITY/MODEL Rare Black/ATTRIBUTE Model Japanese/ATTRIBUTE release
+8/ATTRIBUTE Remo/BRAND DW/BRAND 18/ATTRIBUTE inch/ATTRIBUTE Floor/ATTRIBUTE Tom/TYPE Bass/TYPE Kick/TYPE Drum/TYPE Heads/TYPE
+On/BRAND Stage/BRAND Monitor/ATTRIBUTE Stands/TYPE
+Casio/BRAND Privia/MODEL PX/MODEL 160/MODEL PX/MODEL 160/MODEL PX160/MODEL Digital/ATTRIBUTE Piano/TYPE Black/ATTRIBUTE
+1996/ATTRIBUTE Gibson/BRAND Les/MODEL Paul/MODEL 1958/ATTRIBUTE Reissue/ATTRIBUTE
+Gon/BRAND Bops/BRAND Small Percussion/ATTRIBUTE Tray/TYPE
+ESP/BRAND Viper/MODEL Guitar/TYPE w Padded/ATTRIBUTE Gigbag/TYPE
+Fender/BRAND 72/ATTRIBUTE Telecaster/MODEL Thinline/MODEL
+Piano/TYPE
 Never Used Roland TR 8S Drum Machine
 Vintage 1995 D 18 Martin Guitar
 Furman HDS6 Headphone system with 5 Furman HR 6 Brains
