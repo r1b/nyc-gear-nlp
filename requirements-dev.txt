@@ -7,6 +7,7 @@
 appnope==0.1.0            # via ipython
 backcall==0.1.0           # via ipython
 bleach==3.1.0             # via nbconvert
+cycler==0.10.0            # via matplotlib
 decorator==4.3.2          # via ipython, traitlets
 defusedxml==0.5.0         # via nbconvert
 entrypoints==0.3          # via flake8, nbconvert
@@ -22,7 +23,9 @@ jupyter-client==5.2.4     # via ipykernel, jupyter-console, notebook, qtconsole
 jupyter-console==6.0.0    # via jupyter
 jupyter-core==4.4.0       # via jupyter-client, nbconvert, nbformat, notebook, qtconsole
 jupyter==1.0.0
+kiwisolver==1.0.1         # via matplotlib
 markupsafe==1.1.0         # via jinja2
+matplotlib==3.0.2
 mccabe==0.6.1             # via flake8
 mistune==0.8.4            # via nbconvert
 nbconvert==5.4.0          # via jupyter, notebook
@@ -41,7 +44,8 @@ ptyprocess==0.6.0         # via pexpect, terminado
 pycodestyle==2.5.0        # via flake8
 pyflakes==2.1.0           # via flake8
 pygments==2.3.1           # via ipython, jupyter-console, nbconvert, qtconsole
-python-dateutil==2.7.5    # via jupyter-client, pandas
+pyparsing==2.3.1          # via matplotlib
+python-dateutil==2.7.5    # via jupyter-client, matplotlib, pandas
 pytz==2018.9              # via pandas
 pyzmq==17.1.2             # via jupyter-client, notebook
 qtconsole==4.4.3          # via jupyter
@@ -49,7 +53,7 @@ scikit-learn==0.20.2
 scipy==1.2.0              # via scikit-learn
 send2trash==1.5.0         # via notebook
 singledispatch==3.4.0.3   # via nltk
-six==1.12.0               # via bleach, nltk, prompt-toolkit, python-dateutil, singledispatch, traitlets
+six==1.12.0               # via bleach, cycler, nltk, prompt-toolkit, python-dateutil, singledispatch, traitlets
 terminado==0.8.1          # via notebook
 testpath==0.4.2           # via nbconvert
 tornado==5.1.1            # via ipykernel, jupyter-client, notebook, terminado
