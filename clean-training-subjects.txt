@@ -198,20 +198,20 @@ Gon/BRAND Bops/BRAND Small Percussion/ATTRIBUTE Tray/TYPE
 ESP/BRAND Viper/MODEL Guitar/TYPE w Padded/ATTRIBUTE Gigbag/TYPE
 Fender/BRAND 72/ATTRIBUTE Telecaster/MODEL Thinline/MODEL
 Piano/TYPE
-Never Used Roland TR 8S Drum Machine
-Vintage 1995 D 18 Martin Guitar
-Furman HDS6 Headphone system with 5 Furman HR 6 Brains
-Royal standard selecta double chamber tone accordion
-pioneer DDJ SZ2
-Serato Rane SL3 8 Control CD 2 Control Vinyl Bag
-Morgan DAG 15 Amp
-Clavia DDrum 2 Model 3 w expansion packs
-Kurzweil PC88mx keyboard Alesis RA 100 amp Ramsa monitor
-Steinway Grand Piano M
-Vintage Gretsch Drum Set Natural Maple
-Sennheiser HD 380 pro headphones
-Audio Technica AT2050 Multi Pattern L Diaphragm Condenser
-Dean EABC Cutaway Acoustic Electric Bass w gig bag
+Never/ATTRIBUTE Used/ATTRIBUTE Roland/BRAND TR/MODEL 8S/MODEL Drum/TYPE Machine/TYPE
+Vintage 1995/ATTRIBUTE D/MODEL 18/MODEL Martin/BRAND Guitar/TYPE
+Furman/BRAND HDS6/MODEL Headphone/TYPE system/TYPE with 5/ATTRIBUTE Furman/BRAND HR/MODEL 6/MODEL Brains
+Royal/BRAND standard/BRAND selecta/MODEL double/ATTRIBUTE chamber/ATTRIBUTE tone/ATTRIBUTE accordion/TYPE
+pioneer/BRAND DDJ/MODEL SZ2/MODEL
+Serato/BRAND Rane/BRAND SL3/MODEL 8/ATTRIBUTE Control/TYPE CD/TYPE 2/ATTRIBUTE Control/TYPE Vinyl/TYPE Bag/TYPE
+Morgan/BRAND DAG/MODEL 15/MODEL Amp/TYPE
+Clavia/BRAND DDrum/MODEL 2/MODEL Model/MODEL 3/MODEL w expansion packs
+Kurzweil/BRAND PC88mx/MODEL keyboard/TYPE Alesis/BRAND RA/MODEL 100/MODEL amp/TYPE Ramsa/BRAND monitor/TYPE
+Steinway/BRAND Grand/ATTRIBUTE Piano/TYPE M/MODEL
+Vintage Gretsch/BRAND Drum/TYPE Set/TYPE Natural/ATTRIBUTE Maple/ATTRIBUTE
+Sennheiser/BRAND HD/MODEL 380/MODEL pro/MODEL headphones/TYPE
+Audio/BRAND Technica/BRAND AT2050/MODEL Multi/ATTRIBUTE Pattern/ATTRIBUTE L/ATTRIBUTE Diaphragm/ATTRIBUTE Condenser/ATTRIBUTE
+Dean/BRAND EABC/MODEL Cutaway/ATTRIBUTE Acoustic/ATTRIBUTE Electric/ATTRIBUTE Bass/TYPE w gig/ATTRIBUTE bag/TYPE
 Lexicon LXP1 w audio upgrades
 FS FT Vintage Guitar Classical Guitar
 Vintage fender amps
